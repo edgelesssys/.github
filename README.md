@@ -1,6 +1,6 @@
 ## Hi, we're Edgeless Systems 👋
 
-![Edgeless Systems](/images/edgeless-systems.png)
+![Edgeless Systems](/images/ES_banner.jpg)
 
 We are a cybersecurity startup based in Germany and develop tools for Confidential Computing.
 
@@ -11,7 +11,7 @@ We are a cybersecurity startup based in Germany and develop tools for Confidenti
     <li>Confidential Computing is a security paradigm that enables 🔐 encrypted and 🔎 verifiable processing of sensitive data at any scale.</li>
     <li>With it, ☁ cloud workloads finally become end-to-end secure and end-to-end verifiable!</li>
     <li>We have built a range of 💡 easy-to-use, ⭐ open-source tools that make confidential computing accessible to everyone, check 'em out below!</li>
-    <li>Visit our friends at the [Confidential Computing Consortium](https://confidentialcomputing.io) to find out more about all things CC.
+    <li>Visit our friends at the <a href="https://confidentialcomputing.io">Confidential Computing Consortium</a> to find out more about all things CC.
     </ul>
 </details>
 
@@ -41,6 +41,7 @@ Please read the respective contribution guidelines on the project page for furth
 <img src="https://github.com/hansven/readmetest/blob/main/images/OC3.png" alt="OC3 conference banner" width="60%" style="max-width: 100%">
 </a>
 
+[Confidential Computing Consortium]:https://confidentialcomputing.io
 ---
 
 <sub>  [2022, Bochum ⚒, Germany 🗺](https://goo.gl/maps/VF9qjVtjzE8KT9jz6).</sub>
