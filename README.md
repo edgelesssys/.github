@@ -34,7 +34,7 @@ Please read the respective contribution guidelines on the project page for furth
 
 ### 📰 Our upcoming conference
 
-#### Featuring live talks from Microsoft, Intel, Google, Redhat and more!
+#### Featuring live talks from Microsoft, Intel, Google, Redhat and more. Best of all: it's free!
 
 <img src="https://github.com/hansven/readmetest/blob/main/images/OC3.png" alt="OC3 conference banner" width="60%" style="max-width: 100%">
 
