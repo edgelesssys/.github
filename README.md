@@ -1,6 +1,6 @@
 ## Hi, we're Edgeless Systems 👋
 
-![Edgeless Systems](/images/ES_banner.jpg)
+![Edgeless Systems](/images/ES_banner.jpeg)
 
 ### We are a cybersecurity startup based in Germany and develop tools for Confidential Computing.
 
