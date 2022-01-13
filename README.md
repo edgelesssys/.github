@@ -2,7 +2,7 @@
 
 ![Edgeless Systems](/images/ES_banner.jpg)
 
-We are a cybersecurity startup based in Germany and develop tools for Confidential Computing.
+### We are a cybersecurity startup based in Germany and develop tools for Confidential Computing.
 
 <details> 
     <summary>What's that, you say❓</summary>
@@ -15,15 +15,24 @@ We are a cybersecurity startup based in Germany and develop tools for Confidenti
     </ul>
 </details>
 
+
+
 ### 🔨 Our open-source projects
 
 As a company, we believe in the power of open-source and community-driven development. Our goal is to deliver the tools to make confidential computing accessible to everyone. Check out our projects below if you want to get started:
 
-<img src="/edgelesssys/.github/images/edb.png" alt="EDB Banner" width="25%" style="max-width: 100%">
+<a href="https://github.com/edgelesssys/edgelessdb">
+<img src="https://github.com/hansven/readmetest/blob/main/images/edb.svg" alt="EDB banner" width="60%" style="max-width: 100%">
+</a>
 
-<img src="/edgelesssys/.github/images/ego.png" alt="EGo Banner" width="25%" style="max-width: 100%">
+<a href="https://ego.dev">
+<img src="https://github.com/hansven/readmetest/blob/main/images/ego.png" alt="EDB banner" width="60%" style="max-width: 100%">
+</a>
 
-<img src="/edgelesssys/.github/images/marblerun.png" alt="Marblerun Banner" width="25%" style="max-width: 100%">
+<a href="https://ego.dev">
+<img src="https://github.com/hansven/readmetest/blob/main/images/marblerun.png" alt="EDB banner" width="60%" style="max-width: 100%">
+</a>
+
 
 ### 🤝 Join the confidential computing community
 
@@ -32,16 +41,18 @@ As a company, we believe in the power of open-source and community-driven develo
 </a>
 
 💪 All of our projects are open to new contributors!
+
 Please read the respective contribution guidelines on the project page for further information.
 
-### 📰 Our upcoming conference
 
-#### Featuring live talks from Microsoft, Intel, Google, Redhat and more. Best of all: it's free!
+### 📰 Our upcoming conference
 <a href="https://oc3.dev">
 <img src="https://github.com/hansven/readmetest/blob/main/images/OC3.png" alt="OC3 conference banner" width="60%" style="max-width: 100%">
 </a>
 
-[Confidential Computing Consortium]:https://confidentialcomputing.io
+#### Featuring live talks from Microsoft, Intel, Google, Redhat and more. Best of all: it's free!
+
+
 ---
 
-<sub>  [2022, Bochum ⚒, Germany 🗺](https://goo.gl/maps/VF9qjVtjzE8KT9jz6).</sub>
+<sub>[2022, Bochum ⚒, Germany 🗺](https://goo.gl/maps/VF9qjVtjzE8KT9jz6)</sub>
