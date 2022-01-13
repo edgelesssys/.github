@@ -35,9 +35,9 @@ Please read the respective contribution guidelines on the project page for furth
 ### 📰 Our upcoming conference
 
 #### Featuring live talks from Microsoft, Intel, Google, Redhat and more. Best of all: it's free!
-
+<a href="https://oc3.dev">
 <img src="https://github.com/hansven/readmetest/blob/main/images/OC3.png" alt="OC3 conference banner" width="60%" style="max-width: 100%">
-
+</a>
 ---
 
 <sub>  [2022, Bochum ⚒, Germany 🗺](https://goo.gl/maps/VF9qjVtjzE8KT9jz6).</sub>
