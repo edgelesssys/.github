@@ -21,7 +21,7 @@
 
 As a company, we believe in the power of open-source and community-driven development. Our goal is to deliver the tools to make confidential computing accessible to everyone. Check out our projects below if you want to get started:
 
-<a href="https://github.com/edgelesssys/edgelessdb"><img align="left" src="https://github.com/hansven/readmetest/blob/main/images/edb.svg" alt="EDB banner" width="30%" style="max-width: 100%"></a> <a href="https://ego.dev"><img align="center" src="https://github.com/hansven/readmetest/blob/main/images/ego.png" alt="EDB banner" width="30%" style="max-width: 100%"></a> <a href="https://ego.dev"><img align="right" src="https://github.com/hansven/readmetest/blob/main/images/marblerun.png" alt="EDB banner" width="30%" style="max-width: 100%"></a>
+<a href="https://github.com/edgelesssys/edgelessdb"><img align="left" src="https://github.com/hansven/readmetest/blob/main/images/edb.png" alt="EDB banner" width="30%" style="max-width: 100%"></a> <a href="https://ego.dev"><img align="center" src="https://github.com/hansven/readmetest/blob/main/images/ego.png" alt="EDB banner" width="30%" style="max-width: 100%"></a> <a href="https://ego.dev"><img align="right" src="https://github.com/hansven/readmetest/blob/main/images/marblerun.png" alt="EDB banner" width="30%" style="max-width: 100%"></a>
 
 
 ### 🤝 Join the confidential computing community
