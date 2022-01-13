@@ -27,9 +27,11 @@ As a company, we believe in the power of open-source and community-driven develo
 
 ### 🤝 Join the confidential computing community
 
-<img src="/edgelesssys/.github/images/discord.png" alt="Confidential Computing Community" width="25%" style="max-width: 100%">
+<a href="https://discord.com/invite/rH8QTH56JN">
+<img src="https://github.com/hansven/readmetest/blob/main/images/cc community.png" alt="Confidential Computing Discord" width="60%" style="max-width: 100%">
+</a>
 
-💪 All of our projects are open to new participants!
+💪 All of our projects are open to new contributors!
 Please read the respective contribution guidelines on the project page for further information.
 
 ### 📰 Our upcoming conference
