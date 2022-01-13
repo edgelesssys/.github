@@ -36,7 +36,7 @@ Please read the respective contribution guidelines on the project page for furth
 
 #### Featuring live talks from Microsoft, Intel, Google, Redhat and more!
 
-<img src="https://github.com/hansven/readmetest/blob/main/images/OC3.png" alt="OC3 conference banner" width="25%" style="max-width: 100%">
+<img src="https://github.com/hansven/readmetest/blob/main/images/OC3.png" alt="OC3 conference banner" width="50%" style="max-width: 100%">
 
 ---
 
