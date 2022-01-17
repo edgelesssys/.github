@@ -21,15 +21,15 @@
 
 As a company, we believe in the power of open-source and community-driven development. Our goal is to deliver the tools to make confidential computing accessible to everyone. Check out our projects below if you want to get started:
 
-<a href="https://github.com/edgelesssys/edgelessdb"><img align="left" src="https://github.com/hansven/readmetest/blob/main/images/edb.svg" alt="EDB banner" width="30%" style="max-width: 100%"></a> 
-<a href="https://ego.dev"><img align="right" src="https://github.com/hansven/readmetest/blob/main/images/marblerun-logo.svg" alt="EDB banner" width="30%" style="max-width: 100%"></a>
-<p align="center"><a href="https://ego.dev"><img src="https://github.com/hansven/readmetest/blob/main/images/ego.svg" alt="EDB banner" width="20%" style="max-width: 100%"></a></p> 
+<a href="https://github.com/edgelesssys/edgelessdb"><img align="left" src="https://github.com/hansven/readmetest/blob/main/images/EDB.png" alt="EDB banner" width="30%" style="max-width: 100%"></a> 
+<a href="https://ego.dev"><img align="right" src="https://github.com/hansven/readmetest/blob/main/images/MarbleRun.png" alt="MarbleRun banner" width="30%" style="max-width: 100%"></a>
+<p align="center"><a href="https://ego.dev"><img src="https://github.com/hansven/readmetest/blob/main/images/EGo.png" alt="EGo banner" width="20%" style="max-width: 100%"></a></p> 
 
 
 ### 🤝 Join the confidential computing community
 
 <a href="https://discord.com/invite/rH8QTH56JN">
-<img src="https://github.com/hansven/readmetest/blob/main/images/cc community.png" alt="Confidential Computing Discord" width="40%" style="max-width: 100%">
+<img src="https://github.com/hansven/readmetest/blob/main/images/Discord.png" alt="Confidential Computing Discord" width="40%" style="max-width: 100%">
 </a>
 
 💪 All of our projects are open to new contributors!
