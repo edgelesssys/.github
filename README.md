@@ -5,7 +5,7 @@
 ### We are a cybersecurity startup based in Germany and develop tools for Confidential Computing.
 
 <details> 
-    <summary>What's that, you say❓</summary>
+    <summary>What is Confidential Computing❓ (click to expand)</summary>
     <br>
     <ul>
     <li>Confidential Computing is a security paradigm that enables 🔐 encrypted and 🔎 verifiable processing of sensitive data at any scale.</li>
