@@ -23,7 +23,7 @@ As a company, we believe in the power of open-source and community-driven develo
 
 <a href="https://github.com/edgelesssys/edgelessdb"><img align="left" src="https://github.com/hansven/readmetest/blob/main/images/EDB.png" alt="EDB banner" width="30%" style="max-width: 100%"></a> 
 <a href="https://ego.dev"><img align="right" src="https://github.com/hansven/readmetest/blob/main/images/MarbleRun.png" alt="MarbleRun banner" width="30%" style="max-width: 100%"></a>
-<p align="center"><a href="https://ego.dev"><img src="https://github.com/hansven/readmetest/blob/main/images/EGo.png" alt="EGo banner" width="20%" style="max-width: 100%"></a></p> 
+<p align="center"><a href="https://ego.dev"><img src="https://github.com/hansven/readmetest/blob/main/images/EGo.svg" alt="EGo banner" width="20%" style="max-width: 100%"></a></p> 
 
 
 ### 🤝 Join the confidential computing community
