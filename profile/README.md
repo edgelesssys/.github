@@ -2,7 +2,7 @@
 
 ![Edgeless Systems](/images/ES_banner.png)
 
-### We build tools for an exciting technology called confidential computing.
+### We build tools for an exciting technology called confidential computing
 
 <details> 
     <summary>What is Confidential Computing❓ (click to expand)</summary>
@@ -15,7 +15,7 @@
     </ul>
 </details>
 
-### Our open-source projects get you started with confidential computing in no time.
+### Our main projects
 
 * **EdgelessDB**: The most secure SQL database out there; based on MariaDB.
 * **EGo**: Build confidential apps with ease using golang.
