@@ -2,7 +2,7 @@
 
 ![Edgeless Systems](/images/ES_banner.png)
 
-### We build tools for an exciting technology called confidential computing
+### Our mission is to make confidential computing accessible and scalable for everyone
 
 <details> 
     <summary>What is Confidential Computing❓ (click to expand)</summary>
@@ -10,7 +10,7 @@
     <ul>
     <li>Confidential Computing is a security paradigm that enables 🔐 encrypted and 🔎 verifiable processing of sensitive data at any scale.</li>
     <li>With it, cloud workloads become end-to-end secure and end-to-end verifiable.</li>
-    <li>We have built easy-to-use, open-source tools that make confidential computing accessible and scalabe for everyone, check them out below.</li>
+    <li>We have built easy-to-use, open-source tools that get you started in no time, check them out below.</li>
     <li>Visit our friends at the <a href="https://confidentialcomputing.io">Confidential Computing Consortium</a> to find out more about all things confidential computing.
     </ul>
 </details>
