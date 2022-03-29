@@ -15,7 +15,7 @@
     </ul>
 </details>
 
-### Our open-source projects
+### Our open-source projects get you started with confidential computing in no time.
 
 <a href="https://github.com/edgelesssys/edgelessdb"><img align="left" src="/images/EDB.svg" alt="EDB banner" width="30%" style="max-width: 100%"></a> 
 <a href="https://github.com/edgelesssys/marblerun"><img align="right" src="/images/MarbleRun.svg" alt="MarbleRun banner" width="30%" style="max-width: 100%"></a>
