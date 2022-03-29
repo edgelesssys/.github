@@ -17,6 +17,10 @@
 
 ### Our open-source projects get you started with confidential computing in no time.
 
+* **EdgelessDB**: The most secure SQL database out there; based on MariaDB.
+* **EGo**: Build confidential apps with ease using golang.
+* **MarbleRun**: Manage and scale confidential apps on Kubernetes. 
+
 <a href="https://github.com/edgelesssys/edgelessdb"><img align="left" src="/images/EDB.svg" alt="EDB banner" width="30%" style="max-width: 100%"></a> 
 <a href="https://github.com/edgelesssys/marblerun"><img align="right" src="/images/MarbleRun.svg" alt="MarbleRun banner" width="30%" style="max-width: 100%"></a>
 <p align="center"><a href="https://github.com/edgelesssys/ego"><img src="/images/EGo.svg" alt="EGo banner" width="20%" style="max-width: 100%"></a></p> 
