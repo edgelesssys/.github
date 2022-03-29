@@ -17,8 +17,8 @@
 
 ### Our open-source projects
 
-<a href="https://github.com/edgelesssys/edgelessdb"><img align="left" src="../images/EDB.svg" alt="EDB banner" width="30%" style="max-width: 100%"></a> 
-<a href="https://github.com/edgelesssys/marblerun"><img align="right" src="../images/MarbleRun.svg" alt="MarbleRun banner" width="30%" style="max-width: 100%"></a>
-<p align="center"><a href="https://github.com/edgelesssys/ego"><img src="../images/EGo.svg" alt="EGo banner" width="20%" style="max-width: 100%"></a></p> 
+<a href="https://github.com/edgelesssys/edgelessdb"><img align="left" src="/images/EDB.svg" alt="EDB banner" width="30%" style="max-width: 100%"></a> 
+<a href="https://github.com/edgelesssys/marblerun"><img align="right" src="/images/MarbleRun.svg" alt="MarbleRun banner" width="30%" style="max-width: 100%"></a>
+<p align="center"><a href="https://github.com/edgelesssys/ego"><img src="/images/EGo.svg" alt="EGo banner" width="20%" style="max-width: 100%"></a></p> 
 
 <sub>[2022, Bochum, Germany](https://goo.gl/maps/VF9qjVtjzE8KT9jz6)</sub>
