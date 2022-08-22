@@ -29,10 +29,13 @@ Find out more about confidential computing on our [website](https://www.edgeless
 - [😎 EGo](https://github.com/edgelesssys/ego): The SDK for building confidential apps in Go
 
 <div align="center">
-    <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 1000px; display: flex; justify-content: space-between; align-items: center;">
         <a href="https://github.com/edgelesssys/constellation" style="margin: 10px;"><img src="../images/Constellation.svg" alt="Constellation" width="200px" height="75px"  /></a> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/edgelesssys/edgelessdb" style="margin: 10px;"><img src="../images/EDB.svg" alt="EDB" width="200px" height="75px" /></a> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/edgelesssys/marblerun" style="margin: 10px;"><img src="../images/MarbleRun.svg" alt="MarbleRun" width="200px" height="75px" /></a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/edgelesssys/ego" style="margin: 10px;"><img src="../images/EGo.svg" alt="EGo" width="200px" height="75px" /></a>
     </div>
 </div>
