@@ -18,7 +18,7 @@ With our projects and active GitHub followers and contributors, we are providing
 
 Confidential computing is a new security paradigm that raises data protection to unprecedented levels. By keeping data always encrypted and making all workloads verifiable, confidential computing enables provable security, even on public clouds.
 
-Find out more about confidential computing on our [website](https://deploy-preview-60--edgeless.netlify.app/resources/confidential-computing/).
+Find out more about confidential computing on our [website](https://www.edgeless.systems/resources/confidential-computing/).
 
 
 ## 📦 Our main projects
@@ -29,11 +29,11 @@ Find out more about confidential computing on our [website](https://deploy-previ
 - [😎 EGo](https://github.com/edgelesssys/ego): The SDK for building confidential apps in Go
 
 <div align="center">
-    <div style="display: flex; justify-content: space-between">
-        <a href="https://github.com/edgelesssys/constellation"><img align="left" src="../images/Constellation.svg" alt="EDB banner" /></a> 
-        <a href="https://github.com/edgelesssys/edgelessdb"><img align="left" src="../images/EDB.svg" alt="EDB banner" /></a> 
-        <a href="https://github.com/edgelesssys/marblerun"><img align="right" src="../images/MarbleRun.svg" alt="MarbleRun banner" /></a>
-        <a href="https://github.com/edgelesssys/ego"><img src="../images/EGo.svg" alt="EGo banner" /></a>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <a href="https://github.com/edgelesssys/constellation" style="margin: 10px;"><img src="../images/Constellation.svg" alt="Constellation" width="200px" height="75px"  /></a> 
+        <a href="https://github.com/edgelesssys/edgelessdb" style="margin: 10px;"><img src="../images/EDB.svg" alt="EDB" width="200px" height="75px" /></a> 
+        <a href="https://github.com/edgelesssys/marblerun" style="margin: 10px;"><img src="../images/MarbleRun.svg" alt="MarbleRun" width="200px" height="75px" /></a>
+        <a href="https://github.com/edgelesssys/ego" style="margin: 10px;"><img src="../images/EGo.svg" alt="EGo" width="200px" height="75px" /></a>
     </div>
 </div>
 
