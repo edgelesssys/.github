@@ -40,4 +40,22 @@ Find out more about confidential computing on our [website](https://www.edgeless
     </div>
 </div>
 
-<sub>[2022, Bochum, Germany](https://goo.gl/maps/VF9qjVtjzE8KT9jz6)</sub>
+<!--
+| Projet | Purpose | Repo |
+| :---: | :---: | :---: |
+| [<img src="../images/Constellation.svg" alt="Constellation" width="200px" height="75px" />](https://github.com/edgelesssys/constellation) | The world's first Confidential Kubernetes | ![ego_card][ego_card] |
+| [<img src="../images/EDB.svg" alt="Constellation" width="200px" height="75px" />](https://github.com/edgelesssys/edgelessdb) | The most secure database out there | ![edgelessdb_repo][edgelessdb_repo] |
+| [<img src="../images/MarbleRun.svg" alt="Constellation" width="200px" height="75px" />](https://github.com/edgelesssys/marblerun) | The control plane for confidential computing | ![marblerun_repo][marblerun_repo] |
+| [<img src="../images/EGo.svg" alt="Constellation" width="200px" height="75px" />](https://github.com/edgelesssys/ego) | The SDK for building confidential apps in Go | ![ego_repo][ego_card] |
+
+[ego_repo]: https://github.com/edgelesssys/ego
+[ego_card]: https://github-readme-stats.vercel.app/api/pin/?username=edgelesssys&repo=ego&theme=dark
+[marblerun_repo]: https://github-readme-stats.vercel.app/api/pin/?username=edgelesssys&repo=marblerun&theme=dark
+[marblerun_card]: https://github-readme-stats.vercel.app/api/pin/?username=edgelesssys&repo=marblerun&theme=dark
+[edgelessdb_repo]: https://github-readme-stats.vercel.app/api/pin/?username=edgelesssys&repo=edgelessdb&theme=dark
+[edgelessdb_card]: https://github-readme-stats.vercel.app/api/pin/?username=edgelesssys&repo=edgelessdb&theme=dark
+-->
+
+<p align="center">
+    <sub><a href="https://goo.gl/maps/VF9qjVtjzE8KT9jz6">2022, Bochum, Germany</a></sub>
+</p>
