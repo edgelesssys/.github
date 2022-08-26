@@ -4,9 +4,17 @@
 
 ![Edgeless Systems](../images/ES_banner.png)
 
-<h1 align="center">👋 Hi there, we're Edgeless Systems 👋</h1>
+<h1 align="center">👋 Hi there, we're Edgeless Systems!</h1>
 
 <p align="center"><b>Our mission is to make confidential computing accessible and scalable for everyone.</b></p>
+
+```diff
++ Check out our new open source release!
+@@ Constellation @@
+# Leveraging confidential computing, Constellation isolates entire Kubernetes clusters from the infrastructure.
+# This makes Constellation the most secure way to run Kubernetes.
+# Try it yourself and join our growing community 🌍
+```
 
 ## 🏢 About us
 
