@@ -1,8 +1,6 @@
-## Hi, we're Edgeless Systems 👋
-
 ![Edgeless Systems](/images/ES_banner.png)
 
-Our mission is to make confidential computing accessible and scalable for everyone.
+At Edgeless Systems, our mission is to make confidential computing accessible and scalable for everyone.
 
 **What is Confidential Computing?**
 
