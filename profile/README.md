@@ -1,4 +1,4 @@
-![Edgeless Systems](/images/Edgeless Systems GitHub readme.png)
+![Edgeless Systems](/images/ES_banner.png)
 
 At Edgeless Systems, our mission is to make confidential computing accessible and scalable for everyone.
 
