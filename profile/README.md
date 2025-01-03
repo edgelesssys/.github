@@ -9,4 +9,4 @@ At Edgeless Systems, our mission is to make confidential computing accessible an
 * We have built easy-to-use, open-source tools that get you started in no time, check them out below.</li>
 * Check out our [whitepaper](https://content.edgeless.systems/hubfs/Confidential%20Computing%20Whitepaper.pdf) or visit our friends at the [Confidential Computing Consortium](https://confidentialcomputing.io) to find out more about all things confidential computing.
 
-<sub>[2024, Bochum, Germany](https://goo.gl/maps/VF9qjVtjzE8KT9jz6)</sub>
+<sub>[2025, Bochum, Germany](https://goo.gl/maps/VF9qjVtjzE8KT9jz6)</sub>
